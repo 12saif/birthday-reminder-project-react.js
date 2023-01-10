@@ -1,3 +1,4 @@
+// data for listing the image,name id
 export default [
     {
       id: 1,
